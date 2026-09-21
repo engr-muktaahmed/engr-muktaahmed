@@ -1,67 +1,64 @@
-<h1 align="center"> Hi 👋, I'm <a href="http://muktabd.info">Mukta Ahmed</a></h1>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://mukta.rbfgroupbd.com">Mukta Ahmed</a></h1>
+<h3 align="center">Full Stack Software Developer — Flutter · Java Spring Boot · JavaScript</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MuktaAhmed?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/MuktaAhmed?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: Flutter Master](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=www.linkedin.com/in/muktabd-info)][linkedin]
-
-- 🌱 &ensp;I’m currently learning Flutter ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 3 years
+- 🔭 &ensp;I'm currently working as a **Full Stack Software Developer**
+- 🧩 &ensp;I build across the stack with **Flutter**, **Java Spring Boot**, and **JavaScript** (Node.js, Next.js, Vue.js & React)
+- 🤖 &ensp;Exploring **AI/ML** and integrating it into applications
+- 🗿 &ensp;One of the early adopters of Flutter — more than 5 years in
+- 👯 &ensp;Open to collaborate on full stack and mobile app projects
 - ⚡ &ensp;Fun fact: I love reading & podcasts
-- 📫 &ensp;How to reach me: [**Twitter**][twitter] or [**Email**][email]
+- 📫 &ensp;How to reach me: [**email**](mailto:abdullahibnamukta@gmail.com)
 
-### Connect With Me
+### 🔗 Connect With Me
 
-[<img align="left" alt="Mukta Ahmed | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Mukta Ahmed | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Mukta Ahmed | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
-
-
-<br />
-<br />
-
-### Languages and Tools
-
-<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /><p>Flutter</p>
-<img align="left" alt=“Dart” width="26px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" /><p>Dart</p>
-<img align="left" alt=“NodeJS” width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /><p>NodeJS</p>
-
-
-
-<br />
-<br />
+<p align="left">
+  <a href="https://engr-muktaahmed.github.io/portfolio/"><img alt="Website" width="30px" src="https://skillicons.dev/icons?i=chrome" style="background:#fff;border-radius:8px;padding:6px"/></a>
+  <a href="https://github.com/engr-muktaahmed"><img alt="GitHub" width="40px" src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/engr-muktaahmed"><img alt="LinkedIn" width="40px" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://twitter.com/engr-muktaahmed"><img alt="Twitter/X" width="40px" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.youtube.com/channel/UCoZ26vpm8_tvfwhBpNgCl6w"><img alt="YouTube" width="25px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" style="background:#fff;border-radius:8px;padding:6px" /></a>
+</p>
 
 ---
 
+### 🛠️ Tech Stack
 
-### 📚 &ensp;Latest Medium Articles
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=dart,java,js" alt="Dart, Java, JavaScript" height="48" />
 
+**Mobile**
 
+<img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" height="48" />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+**Backend**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muktabd)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=spring,nodejs" alt="Spring Boot, Node.js" height="48" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muktabd)](https://github.com/anuraghazra/github-readme-stats)
+**Frontend**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muktabd&show_icons=true&count_private=true)  
+<img src="https://skillicons.dev/icons?i=nextjs,vue,react" alt="Next.js, Vue.js, React" height="48" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muktabd&bg_color=8b6f7d&color=f5f5f5&line=865b83&point=d4abab&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**AI / ML**
 
-![GitHub metrics](https://metrics.lecoq.io/muktabd)  
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" height="48" />
 
-![](https://komarev.com/ghpvc/?username=your-github-muktabd)
+**Tools**
 
+<img src="https://skillicons.dev/icons?i=firebase,git" alt="Firebase, Git" height="48" />
 
+---
 
-[website]: http://muktabd.info
-[twitter]: http://muktabd.info
-[linkedin]: www.linkedin.com/in/muktabd-info
-[github]: https://github.com/muktabd/
-[instagram]: https://www.instagram.com/muktabd
-[facebook]: https://www.facebook.com/mukta.2003
-[medium]: http://muktabd.info
-[email]: mukta@graduate.utm.my
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muktabd&show_icons=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muktabd&layout=compact" />
+</p>
+
+---
+
+### 📺 &ensp;YouTube
+
+Subscribe to my channel for tutorials and development content:
+➡️ &ensp;[**youtube.com/@MuktaAhmed**](https://www.youtube.com/channel/UCoZ26vpm8_tvfwhBpNgCl6w)
